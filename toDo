@@ -1,0 +1,3 @@
+Lista de scripts:
+ - Ideia 1:
+   - Nunca te pediram ao sair de casa "quando chegares ao destino, manda mensagem para dizeres que esta tudo bem"?... Se sim, esta ideia é: Indicar as coordenadas GPS de destino e o terminal, automaticamente OU remebra pra enviar mensagem, OU remebra e envia logo mensagem, OU envia so a mensagem, OU pergunta se quer enviar Ja a mensagem. Para esta ideia funcionar, convem haver uma base dados de coordenadas GPS (locais comuns, recorrentes, favoritos) ou adicionar umas coordenadas novas (com apoio dobGoogle maps)

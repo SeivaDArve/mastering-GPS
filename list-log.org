@@ -1,0 +1,14 @@
+* GPS locations
+Index 1: Casa 1
+ - Toucinhos
+
+Index 2: Casa 2
+ - Gandara
+
+Index 3: Casa 3
+ - Rua da Orta
+
+Index 1: Casa 4
+ - Rua de Goa
+ - Nome (Google Maps): Passadeira da orta
+ - Coordenadas: 
